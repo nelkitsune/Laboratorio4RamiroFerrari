@@ -1,0 +1,21 @@
+1) npm es un gestor de paquetes para node.js, su funcion es compartir facilmente modulos de codigo empaquetado. 
+nos permite la gestion de dependencias y versiones de estas, ejecucion de scrips personalizados y publicar nuestros propios paquetes
+------
+2) las partes son
+informacion del proyecto: aqui podemos encontrar el nombre del proyecto, la version y la descripcion del mismo
+dependencias: lista de paquetes necesarion para que la aplicacion funcione
+
+scrips: permite definir comandos personalizados
+
+devDependenci: lista de paquetes nesesarios solo en la etapa de desarollo 
+---------
+
+3) las dependencias normales sirven para que la aplicacion funcione en producion mientras que las dependencias de desarrollo son solamente las que se necesitan para trabajar en el entorno de desarrollo
+-----
+
+4) para actualizar un paquete se utiliza 
+npm update <paquete>
+
+------
+5) El comando npm linkse utiliza para crear enlaces simbólicos entre paquetes de Node.js de manera local.
+----

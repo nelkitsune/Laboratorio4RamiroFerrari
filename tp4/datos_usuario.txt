@@ -1,0 +1,3 @@
+Nombre: ramiro
+Edad: 23
+Correo: ramiroferrariadrian@gmail.com
